@@ -5,12 +5,12 @@
 ---
 
 - **Unity Sizzle Reels**:  
-https://www.youtube.com/watch?v=LlgHCeLV92Y
-https://www.youtube.com/watch?v=MtTea5GZHmo
-
-## 🚀 Install Unity Hub + Unity 6.2
+[![Made with Unity Games sizzle 2025](images/UnityGames.jpg)](https://www.youtube.com/watch?v=LlgHCeLV92Y)
+[![Watch the video](images/UnityIndustry.jpg)](https://www.youtube.com/watch?v=MtTea5GZHmo)
 
 ---
+
+## 🚀 Install Unity Hub + Unity 6.2
 
 ## Requirements
 
@@ -108,6 +108,7 @@ To manage an existing project:
 -  https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/master-3d-scene-navigation?version=6.0
 -  https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0
 
+---
 
 ## 🚀 Installing GitHub Desktop
 
