@@ -107,8 +107,7 @@ To manage an existing project:
 ## 🚀 Unity Essentials
 
 ### Download Unity Essentials pathway learning modules zip file
-[Unity Essentials Zip File](files/Essentials-Download-U6.zip)
- 
+[- Unity Essentials Zip File](files/Essentials-Download-U6.zip)
 
 ---
 
