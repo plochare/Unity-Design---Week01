@@ -123,19 +123,17 @@ To manage an existing project:
 ### Download Unity Essentials pathway learning modules zip file
 [- Unity Essentials Zip File](files/Essentials-Download-U6.zip)
 
----
+### 🚀 Explore the Editor Interface:
 
-## 🚀 Exploring the Unity Editor:
-
-- **Explore the Unity Editor**:  
-[![Explore the Unity Editor](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
+- **Explore the Editor**:  
+[![Explore the Editor](images/overview1.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
 
 - **Master 3D Navivation**:  
-[![Master 3D Navivation](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
+[![Master 3D Navivation](images/navigation.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
 
 
 - **Design a Mural**:  
-[![Design a Mural](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0)
+[![Design a Mural](images/mural.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0)
 
 ---
 
