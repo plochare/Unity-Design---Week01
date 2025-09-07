@@ -1,6 +1,8 @@
 # Unity Design - Week 01
 
-## 🚀 Made with Unity
+## 🚀 Intro to Unity
+
+Unity is a cross-platform real-time development platform primarily known for its game engine, enabling the creation of 2D and 3D interactive experiences, including video games, simulations, and augmented/virtual reality applications.
 
 ---
 
