@@ -182,6 +182,15 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 ![Alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Screenshot](images/screenshot.png)
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
+''
+
+---
+
+## 🚀 Class Assignment - Week #01
+
+### Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks.
+[- Unity 3D Essentials Assignment #1](https://learn.unity.com/pathway/unity-essentials/unit/3d-essentials)
+
 
 
 
