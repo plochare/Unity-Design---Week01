@@ -104,6 +104,14 @@ To manage an existing project:
 
 ---
 
+## 🚀 Unity Essentials
+
+### Download Unity Essentials pathway learning modules zip file
+[Unity Essentials](files/Essentials-Download-U6.zip)
+ 
+
+---
+
 ## 🚀 Exploring the Unity Editor:
 
 -  https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0
