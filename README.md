@@ -1,5 +1,19 @@
 # Unity Design - Week 01
 
+## Agenda
+
+1. [Intro To Unity](#Intro-to-Unity)  
+2. [Installing Unity Hub](#installing-unity-hub)  
+3. [Unity Essentials](#installing-unity-editor-62)  
+4. [Unity Asset Store](#managing-unity-modules)  
+5. [Unity Build and Publish ](#creating-a-new-unity-project)  
+6. [Installing GitHub Desktop](#adding-existing-projects-to-unity-hub)  
+7. [Git LFS](#additional-resources)
+8. [Git Readme Formatting](#additional-resources)
+9. [Class Assignment - Week #01](#additional-resources)
+
+---
+
 ## 🚀 Intro to Unity
 
 Unity is a cross-platform real-time development platform primarily known for its game engine, enabling the creation of 2D and 3D interactive experiences, including video games, simulations, and augmented/virtual reality applications.
