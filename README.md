@@ -154,6 +154,7 @@ To manage an existing project:
 
 GitHub uses **Markdown** syntax for README files. Here are the essentials:
 
+````
 1. **Headings**  
 ```markdown
 # H1 Title
@@ -182,11 +183,11 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 ![Alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Screenshot](images/screenshot.png)
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
-''
+````
 
 ---
 
-## 🚀 Class Assignment - Week #01
+## 🚀 Unity Design - Class Assignment - Week #01
 
 ### Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks. Follow the lesson and modify the Unity 3D essentials scene. Add 2 elements from the Unity Store. Upload project files to personal github.
 [- Unity 3D Essentials Assignment #1](https://learn.unity.com/pathway/unity-essentials/unit/3d-essentials)
