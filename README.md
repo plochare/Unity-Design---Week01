@@ -117,6 +117,31 @@ To manage an existing project:
 -  https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/master-3d-scene-navigation?version=6.0
 -  https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0
 
+
+---
+
+## 🚀 Unity Build and Publish To Web and Desktop
+Unity allows publishing projects to both web (via WebGL) and desktop platforms (Windows, macOS, Linux). The process involves configuring build settings and then generating the necessary files.
+## Publishing for Desktop (Windows, macOS, Linux):
+### Switch Platform:
+- In Unity, navigate to File > Build Settings. Select the desired desktop platform (Windows, Mac, or Linux) and click "Switch Platform".
+### Player Settings:
+- Configure platform-specific settings in Player Settings. This includes options for resolution, icons, splash images, and other platform-specific preferences.
+### Build:
+- In Build Settings, click "Build". Choose a location to save the build. For desktop builds, this typically generates an executable file and a corresponding data folder (e.g., _Data on Windows) which must be kept together for the application to run.
+### Distribution:
+- Distribute the executable and its accompanying data folder to users. They can then run the application directly on their respective operating systems.
+
+## Publishing for Web (WebGL):
+### Switch Platform:
+- In Unity, navigate to File > Build Settings. Select "WebGL" as the target platform and click "Switch Platform".
+### Player Settings:
+- Configure WebGL-specific settings in Player Settings (accessible from Build Settings). This includes options for compression, template, and publishing settings.
+### Build:
+- In Build Settings, click "Build". Choose a location to save the build output, which will be a folder containing HTML, JavaScript, WebAssembly, and data files.
+### Deployment:
+- Upload the contents of the generated build folder to a web server. Ensure the server is configured to serve WebAssembly files with the application/wasm MIME type for optimal performance with streaming compilation.
+
 ---
 
 ## 🚀 Installing GitHub Desktop
