@@ -156,20 +156,17 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 
 ````
 1. **Headings**  
-```markdown
 # H1 Title
 ## H2 Subtitle
 ### H3 Section
 
 2. **Text Formatting**
-```markdown
 **Bold text**  
 *Italic text*  
 ~~Strikethrough~~  
 `Inline code`
 
 3. **Lists**
-```markdown
 - Bullet list item
 - Another item
   - Sub-item
@@ -178,19 +175,20 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 2. Second item
 
 4. **Links**
-```markdown
 [GitHub Desktop](https://desktop.github.com/)
 ![Alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Screenshot](images/screenshot.png)
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
 ````
 
+[- Git Hub Formatting Readme Docs ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 ---
 
 ## 🚀 Unity Design - Class Assignment - Week #01
 
-### Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks. Follow the lesson and modify the Unity 3D essentials scene. Add 2 elements from the Unity Store. Upload project files to personal github.
-[- Unity 3D Essentials Assignment #1](https://learn.unity.com/pathway/unity-essentials/unit/3d-essentials)
+Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks. Follow the lesson and modify the Unity 3D essentials scene. Add 2 elements from the Unity Store. Upload project files to personal github repository.
+[- Learn Unity 3D Essentials](https://learn.unity.com/pathway/unity-essentials/unit/3d-essentials)
 
 
 
