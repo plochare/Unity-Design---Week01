@@ -127,21 +127,17 @@ To manage an existing project:
 
 ## 🚀 Exploring the Unity Editor:
 
-### Explore the Editor
--  [![Made with Unity Games sizzle 2025](images/UnityGames.jpg)]https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0
+- **Explore the Unity Editor**:  
+[![Explore the Unity Editor](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
 
---
+- **Master 3D Navivation**:  
+[![Master 3D Navivation](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
 
-### Master 3D Navivation
--  [![Made with Unity Games sizzle 2025](images/UnityGames.jpg)]https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/master-3d-scene-navigation?version=6.0
 
---
-
-### Design a Mural
--  [![Made with Unity Games sizzle 2025](images/UnityGames.jpg)]https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0
+- **Design a Mural**:  
+[![Design a Mural](images/UnityGames.jpg)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0)
 
 ---
-
 
 ## 🚀 Importing Assets from Unity Asset Store
 
