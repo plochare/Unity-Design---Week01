@@ -144,24 +144,30 @@ To manage an existing project:
 
 ---
 
+## 🚀 Installing Git Large File Storage (Git LFS)
+
+[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
+
+---
+
 ## 📝 GitHub README Formatting (Markdown Basics)
 
 GitHub uses **Markdown** syntax for README files. Here are the essentials:
 
-### 1. Headings
+1. Headings
 ```markdown
 # H1 Title
 ## H2 Subtitle
 ### H3 Section
 
-### 2. Text Formatting
+2. Text Formatting
 ```markdown
 **Bold text**  
 *Italic text*  
 ~~Strikethrough~~  
 `Inline code`
 
-### 3. Lists
+3. Lists
 ```markdown
 - Bullet list item
 - Another item
@@ -170,18 +176,13 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 1. Numbered item
 2. Second item
 
-### 4. Links
+4. Links
 ```markdown
 [GitHub Desktop](https://desktop.github.com/)
 ![Alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Screenshot](images/screenshot.png)
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
 
----
-
-## 🚀 Installing Git Large File Storage (Git LFS)
-
-[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
 
 
 
