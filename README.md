@@ -177,5 +177,12 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 ![Screenshot](images/screenshot.png)
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
 
+---
+
+## 🚀 Installing Git Large File Storage (Git LFS)
+
+[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
+
+
 
 
