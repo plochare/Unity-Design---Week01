@@ -278,7 +278,7 @@ GitHub uses **Markdown** syntax for README files. Here are the essentials:
 
 ## 🚀 Unity Design - Class Assignment - Week #01
 
-Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks. Follow the lesson and modify the Unity 3D essentials scene. Add 2 elements from the Unity Store. Upload project files to personal github repository.
+Design a kid's bedroom with a bouncing ball and a tower of collapsing building blocks. Follow the lesson and modify the Unity 3D essentials scene. Add 2 elements from the Unity Store. Upload published web or desktop publiah files to personal github repository.
 [- Learn Unity 3D Essentials](https://learn.unity.com/pathway/unity-essentials/unit/3d-essentials)
 
 
