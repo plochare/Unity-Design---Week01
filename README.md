@@ -35,7 +35,7 @@ Unity is a cross-platform real-time development platform primarily known for its
   - **macOS**: macOS X 11+  
   - **Linux**: Ubuntu 24.04 supported (RPM/Deb installations possible for other distributions) :contentReference[oaicite:0]{index=0}
 
-- **System compatibility**: Ensure your machine can run Unity. If your PC or Mac is relatively recent (within the last few years), you're likely good to go :contentReference[oaicite:1]{index=1}.
+- **System compatibility**: Ensure your machine can run Unity. If your PC or Mac is relatively recent (within the last few years), you're likely good to go.
 
 ---
 
@@ -48,7 +48,7 @@ Unity is a cross-platform real-time development platform primarily known for its
 
 3. **Launch Unity Hub** and sign in with your Unity ID (or create one if you don't have an account) :contentReference[oaicite:3]{index=3}.
 
-4. **Keep Unity Hub updated**—Unity Learn tutorials recommend using the latest official (non-beta) release to avoid discrepancies :contentReference[oaicite:4]{index=4}.
+4. **Keep Unity Hub updated**—Unity Learn tutorials recommend using the latest official (non-beta) release to avoid discrepancies.
 
 ---
 
@@ -62,7 +62,7 @@ Unity is a cross-platform real-time development platform primarily known for its
 
    > **Note:** Unity 6.3 is a Supported Update release, offering the latest features and platform improvements with support approximately matching LTS until the next update :contentReference[oaicite:6]{index=6}.
 
-4. Optionally, include additional modules during installation (e.g., for WebGL, Visual Studio, language packs, or documentation) by selecting them in the module list :contentReference[oaicite:7]{index=7}.
+4. Optionally, include additional modules during installation (e.g., for WebGL, Visual Studio, language packs, or documentation) by selecting them in the module list.
 
 ---
 
@@ -74,7 +74,7 @@ After installing Unity 6.3:
 
 2. Choose **Add Modules**.
 
-3. Select components such as **Dev tools**, **Build support** (Windows, macOS, Android, WebGL, etc.), **Documentation**, or language packs, then click **Install** :contentReference[oaicite:8]{index=8}.
+3. Select components such as **Dev tools**, **Build support** (Windows, macOS, Android, WebGL, etc.), **Documentation**, or language packs, then click **Install**.
 
 ---
 
@@ -90,7 +90,7 @@ After installing Unity 6.3:
 
 5. Set a project **name**, **location**, select an **organization**, and decide if you want **Unity Cloud** or **Unity Version Control** enabled :contentReference[oaicite:10]{index=10}.
 
-6. Click **Create project**. Unity Hub will download and open the project in the Editor :contentReference[oaicite:11]{index=11}.
+6. Click **Create project**. Unity Hub will download and open the project in the Editor.
 
 ---
 
@@ -104,17 +104,17 @@ To manage an existing project:
 
 3. If in **Editor Version** you see a warning that Unity 6.3 isn’t installed, either install it or choose another compatible version :contentReference[oaicite:12]{index=12}.
 
-   > **Caution:** Avoid opening a project with an older Unity version—that would be a downgrade :contentReference[oaicite:13]{index=13}.
+   > **Caution:** Avoid opening a project with an older Unity version—that would be a downgrade.
 
 ---
 
 ## Additional Resources
 
-- For offline or command-line installations, refer to the official Unity Manual "Install Unity using installer files or Download Assistant" :contentReference[oaicite:14]{index=14}.
+- For offline or command-line installations, refer to the official Unity Manual "Install Unity using installer files or Download Assistant".
 
 - Unity’s [documentation site](https://docs.unity3d.com) and Learn platform have further references for advanced setup and troubleshooting.
 
-- Unity 6.2 includes improvements like Unity AI (beta), enhanced rendering pipelines, platform support, and performance upgrades :contentReference[oaicite:15]{index=15}.
+- Unity 6.3 includes improvements like Unity AI (beta), enhanced rendering pipelines, platform support, and performance upgrades.
 
 ---
 
