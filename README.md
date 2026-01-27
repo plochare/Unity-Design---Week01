@@ -26,7 +26,7 @@ Unity is a cross-platform real-time development platform primarily known for its
 
 ---
 
-## 🚀 Install Unity Hub + Unity 6.2
+## 🚀 Install Unity Hub + Unity 6.3
 
 ## Requirements
 
