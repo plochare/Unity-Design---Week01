@@ -52,15 +52,15 @@ Unity is a cross-platform real-time development platform primarily known for its
 
 ---
 
-## Installing Unity Editor 6.2
+## Installing Unity Editor 6.3
 
 1. In Unity Hub, go to the **Installs** tab.
 
 2. Click **Add** to view available Unity Editor versions.
 
-3. Select **Unity 6.2 (Supported)** and install it :contentReference[oaicite:5]{index=5}.
+3. Select **Unity 6.3 (Supported)** and install it :contentReference[oaicite:5]{index=5}.
 
-   > **Note:** Unity 6.2 is a Supported Update release, offering the latest features and platform improvements with support approximately matching LTS until the next update :contentReference[oaicite:6]{index=6}.
+   > **Note:** Unity 6.3 is a Supported Update release, offering the latest features and platform improvements with support approximately matching LTS until the next update :contentReference[oaicite:6]{index=6}.
 
 4. Optionally, include additional modules during installation (e.g., for WebGL, Visual Studio, language packs, or documentation) by selecting them in the module list :contentReference[oaicite:7]{index=7}.
 
@@ -68,13 +68,13 @@ Unity is a cross-platform real-time development platform primarily known for its
 
 ## Managing Unity Modules
 
-After installing Unity 6.2:
+After installing Unity 6.3:
 
-1. In the **Installs** tab, locate the Unity 6.2 entry and click the **gear icon**.
+1. In the **Installs** tab, locate the Unity 6.3 entry and click the **gear icon**.
 
 2. Choose **Add Modules**.
 
-3. Select desired components such as **Dev tools**, **Build support** (Windows, WebGL, macOS, etc.), **Documentation**, or language packs, then click **Install** :contentReference[oaicite:8]{index=8}.
+3. Select components such as **Dev tools**, **Build support** (Windows, macOS, Android, WebGL, etc.), **Documentation**, or language packs, then click **Install** :contentReference[oaicite:8]{index=8}.
 
 ---
 
@@ -84,7 +84,7 @@ After installing Unity 6.2:
 
 2. Click **New Project**.
 
-3. Choose **Unity 6.2** from the **Editor Version** dropdown.
+3. Choose **Unity 6.3** from the **Editor Version** dropdown.
 
 4. Pick a project **template** (e.g., 3D URP, Basic, etc.) :contentReference[oaicite:9]{index=9}.
 
@@ -102,7 +102,7 @@ To manage an existing project:
 
 2. Navigate to your project folder and select it.
 
-3. If in **Editor Version** you see a warning that Unity 6.2 isn’t installed, either install it or choose another compatible version :contentReference[oaicite:12]{index=12}.
+3. If in **Editor Version** you see a warning that Unity 6.3 isn’t installed, either install it or choose another compatible version :contentReference[oaicite:12]{index=12}.
 
    > **Caution:** Avoid opening a project with an older Unity version—that would be a downgrade :contentReference[oaicite:13]{index=13}.
 
