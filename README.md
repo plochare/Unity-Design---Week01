@@ -126,14 +126,14 @@ To manage an existing project:
 ### 🚀 Explore the Editor Interface:
 
 - **Explore the Editor**:  
-[![Explore the Editor](images/overview1.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
+[![Explore the Editor](images/overview1.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.3)
 
 - **Master 3D Navivation**:  
-[![Master 3D Navivation](images/navigation.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.0)
+[![Master 3D Navivation](images/navigation.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/explore-the-editor-interface-1-1?version=6.3)
 
 
 - **Design a Mural**:  
-[![Design a Mural](images/mural.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.0)
+[![Design a Mural](images/mural.png)](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials/tutorial/design-a-mural-in-scene-view?version=6.3)
 
 ---
 
